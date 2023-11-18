@@ -17,7 +17,7 @@ The project is actively working on fine-tuning the Google Palm Large Language Mo
 
 ## Getting Started
 ### Installation Guide
-Before using GenAI Clothing Store Management System, follow the step-by-step instructions in the Installation Guide to set up the necessary dependencies and configure the system.
+Before using GenAI Clothing Store Management System, the need of python is necessary (Jupyter for comfortable usage) and create a new virtual environment and download the required libaries from the "requirements.txt" and get your own Google PaLM API Key from the [Website](https://makersuite.google.com/)
 
 ### Usage Instructions
 Learn how to interact with the system, execute SQL queries, and make the most of its capabilities. Detailed usage instructions, code examples, and prompts can be found in the Usage Instructions section.
