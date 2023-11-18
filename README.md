@@ -34,4 +34,4 @@ The development roadmap for GenAI Clothing Store Management System includes the 
 Contributions from the community are highly encouraged to enhance the capabilities and versatility of GenAI Clothing Store Management System. Please refer to our Contributing Guidelines to get started.
 
 ## Credits
-We express our gratitude to the dedicated efforts of our team and the broader open-source community for contributing to the success of this project. Special thanks to the Codebasics YouTube channel for valuable insights and guidance during the development process [YouTube-codebasic](https://www.youtube.com/watch?v=nAmC7SoVLd8&list=PLeo1K3hjS3uu0N_0W6giDXzZIcB07Ng_F).
+We express our gratitude to the dedicated efforts of our team and the broader open-source community for contributing to the success of this project. Special thanks to the Codebasics YouTube channel for valuable insights and guidance during the development process [YouTube-codebasic](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ).
