@@ -30,8 +30,5 @@ The development roadmap for GenAI Clothing Store Management System includes the 
 3. **User Access Control**: Implement user access control to ensure secure and authorized access to different functionalities within the system.
 4. **Integration with E-commerce Platforms**: Explore the possibility of integrating the system with e-commerce platforms for seamless online and offline store management.
 
-## Contributing
-Contributions from the community are highly encouraged to enhance the capabilities and versatility of GenAI Clothing Store Management System. Please refer to our Contributing Guidelines to get started.
-
 ## Credits
 We express our gratitude to the dedicated efforts of our team and the broader open-source community for contributing to the success of this project. Special thanks to the Codebasics YouTube channel for valuable insights and guidance during the development process [YouTube-codebasic](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ).
